@@ -78,14 +78,15 @@
       }
     ],
     "curated": null,
+    "optionsWithBullet": true,
     "options": [
       {
         "title": "Classic selection",
         "subTitle": "CHÂTEAU LATOUR",
         "descriptions": [
-          "• Pauillac de Château Latour 2014",
-          "• Les Forts de Latour 2009",
-          "• Grand Vin de Château Latour 2004"
+          "Pauillac de Château Latour 2014",
+          "Les Forts de Latour 2009",
+          "Grand Vin de Château Latour 2004"
         ],
         "price": 165,
         "currency": "GBP",
@@ -336,6 +337,7 @@
       "Gain unique and memorable insight into the daily workings of an English country castle, as you accompany Highclere’s Head Gardener [Full Name] on a personal tour of the pristine landscaped gardens and native woodlands of this remarkable 5,000-acre estate.",
       "Round off this unique Four Seasons experience by gazing up at bespoke portraits of Charles I and the Carnarvon ancestors, as you enjoy unprecedented access to the Castle’s State Rooms for a traditional English high tea, expertly served by your private butler."
     ],
+    "optionsWithBullet": false,
     "options": [
       {
         "title": "Option 1",
@@ -560,6 +562,7 @@
       "Spot wild deer and native wildfowl as you sip champagne along the historic waterways, constructed by then-Lord of the Manor Sir Henry Mildmay in 1798.",
       "Return for an exploration of classic British cuisine at Wild Carrot restaurant, with a 3-course meal infused by ingredients sourced from local farms and markets."
     ],
+    "optionsWithBullet": false,
     "options": [
       {
         "title": "Option 1",
